@@ -20,3 +20,4 @@ To be completed...
 Built-in vless config generator is based on (https://github.com/leosmitt/edgetunnel), re-written using Typescript.
 Built-in trojan config generator is based on [ca110us/epeius](https://github.com/ca110us/epeius/tree/main), re-written using Typescript.
 Proxy IPs source: https://rentry.co/CF-proxyIP
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
